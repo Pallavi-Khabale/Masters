@@ -1,56 +1,96 @@
-# 🎓 Masters Projects – Foster School of Business, University of Washington
+# 📦 Masters Capstone Project — Warehouse Operations & Labor Allocation for Lime
 
-This repository showcases academic projects completed during my Master's in Supply Chain Management at the **Foster School of Business**, **University of Washington** (June 2024 – June 2025). The work focuses on analytics, supply chain systems, and real-world data interpretation using tools such as SQL, Python, Excel, Tableau, and SAP.
+This repository documents the learnings and structure of my capstone project for the Master's in Supply Chain Management at the **University of Washington – Foster School of Business**. The project focused on optimizing **warehouse operations and labor planning** for **Lime**, a global leader in micro-mobility solutions.
 
----
+🎓 Capstone Project | Foster School of Business, University of Washington  
+🟢 Lean Six Sigma Green Belt Certified | March 2025 – June 2025  
 
-## 📚 Relevant Coursework
-
-| Subjects                     | Subjects                   | Subjects                       |Subjects                        |
-|------------------------------|----------------------------|--------------------------------|--------------------------------|
-| Advanced Excel               | Finance & Accounting       |Probability & Statistics        | Spreadsheet Modeling           |
-|Competitive Strategy          | Negotiations               |Strategy Sourcing & Procurement |Operations Management & Research Analysis|
-|Big Data Mining               |Global Supply Chain & Logistics| Marketing                   |Forecasting, Analytics & Supply Chain|
-|Lean & Six Sigma              |SQL                         |Leadership                      | Sustainability                 |
+> ⚠️ **Note:** Due to confidentiality and NDA restrictions, project data, code, and detailed dashboards cannot be uploaded publicly.
 
 ---
 
-## 💼 Projects in this Repository
+## 📌 Project Overview
 
-### 1. [SDOT Collisions Analysis – SQL, Python, R, Excel](https://github.com/Pallavi-Khabale/Masters/tree/main/SDOT_Collisions_Analysis--SQL-Python-R-Excel)
-- Explored Seattle Department of Transportation collision data.
-- Used **SQL** to clean and aggregate large datasets.
-- Performed exploratory data analysis in **Python**, **Tableau**, and **R**.
-- Created dashboards and visual summaries in **Excel** and **Tableau**.
+This project was completed as part of my master's capstone in Supply Chain Management at the University of Washington. The goal was to optimize warehouse labor allocation planning for Lime Commerce Warehouse by developing a dynamic dashboard that forecasts labor needs per process based on historical data trends such as SKU complexity, order types, and shipment data.
 
----
-
-### 2. [Excel Dashboard – DataCo Smart Supply Chain](https://github.com/Pallavi-Khabale/Masters/tree/main/Excel_Dashboard---DataCo-Smart-Supply-Chain)
-- Built an interactive **Excel dashboard** analyzing supply chain KPIs.
-- Used pivot tables, slicers, charts, and advanced Excel formulas.
-- Based on the **DataCoSupplyChain** dataset.
+> **Impact**  
+> - Improved forecasted labor accuracy and reduced idle time by **20%** across inbound and outbound activities.  
+> - Enhanced warehouse labor efficiency through a **dynamic, no-code planning tool** that forecasted staffing needs using real-time SKU, takt time, and volume trends.  
+> - Replaced static benchmarks with **data-driven regression models**, enabling agile and function-specific labor allocation across core fulfillment tasks.
 
 ---
 
-## 🔧 Tools & Technologies Used
+## 📊 Key Features
 
-- SQL
-- Python (Pandas, Numpy, Matplotlib, Seaborn)
-- R (ggplot2, dplyr)
-- Tableau
-- Microsoft Excel (PivotTables, Macros, Power Query)
-- Git & GitHub
-- Git LFS
-- Power BI
+- 📈 **Regression-based labor forecasting** using Excel and multivariable modeling  
+- 🔄 **Dynamic dashboards** auto-adjusting by SKU, pieces, pallets, and order types  
+- 🧠 **Model-based and benchmark-based allocation planning**  
+- 📍 **Process visualization**, bottleneck analysis, and time study mapping  
+- 🟢 Certified Lean Six Sigma Green Belt methodology applied (DMAIC, 5 Whys, VSM)
 
 ---
 
-## 👤 Author
+## 📁 Project Contents
+
+Due to **confidentiality agreements with Lime**, the following deliverables **cannot be uploaded publicly**:
+
+- ✅ Live Labor Allocation Dashboard (Excel-based)
+- ✅ SOP Guidelines & Visual Management Templates
+- ✅ SQL + Python analysis scripts
+- ✅ Weekly stakeholder updates & planning decks
+- ✅ Final project presentation and A3 report
+
+This repository includes:
+- `README.md` – This file
+- `A3_Report Dashboard` – High-level summary (redacted)
+
+---
+
+## 🧪 Tools & Techniques Used
+
+**Tools:**
+- Microsoft Excel (Dashboarding, Formulas, Scenario Modeling)
+- Python & SQL (Data preprocessing and cleaning)
+- Google Sheets, Google Slides (Collaboration & Visualization)
+
+**Techniques:**
+- Lean Six Sigma Green Belt (DMAIC, VSM, RCA, Bottleneck Analysis)
+- Takt Time Calculation & Labor Benchmarking
+- Regression Modeling (SKUs, Order Volume, Labor Time)
+- Time Study Analysis & Warehouse Shift Optimization
+- Time-series demand pattern analysis
+- Data cleaning and transformation in Excel & SQL (internal)
+- Business problem scoping and stakeholder communication
+
+---
+
+## 📜 Certification
+
+This capstone project fulfilled the final requirement for:
+
+**🟢 Lean Six Sigma Green Belt**  
+University of Washington – Foster School of Business
+
+---
+
+## 🔭 Future Improvements
+
+- Integrate Power BI or Python for real-time automation and visual insights  
+- Add time study module for replenishment and inventory control processes  
+- Extend model logic for multi-site warehouse and cross-dock operations  
+- Enable KPI tracking dashboards for team-level performance  
+- Include dynamic calendar-based shift planning and alerts  
+
+---
+
+## 👩‍💻 Author
 
 **Pallavi Khabale**  
-🎓 Master’s in Supply Chain Management (2024–2025)  
-🏫 University of Washington – Foster School of Business  
+Master of Supply Chain Management, University of Washington (2024–2025)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pallavi-khabale)  
-📧 [Email](mailto:pallavikhabale@gmail.com)
+🌐 [Portfolio Website](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)  
+📧 pallavikhabale@gmail.com
 
 ---
+
+> 📝 *This project showcases applied lean operations, practical data modeling, and end-to-end labor optimization in a real-world warehouse setting under NDA constraints.*
