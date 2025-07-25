@@ -51,7 +51,7 @@ This project presents a detailed **Excel dashboard** and insight-driven analysis
 
 ## 🖥️ Excel Dashboard Preview
 
-![Dashboard Overview](./Dashboard.png)
+![Dashboard Overview](./Dashboard.PNG)
 
 
 ---
