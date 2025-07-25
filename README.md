@@ -31,6 +31,14 @@ This repository showcases academic projects completed during my Master's in Supp
 - Based on the **DataCoSupplyChain** dataset.
 
 ---
+### 3. [Lime Warehouse Labor Allocation Planning – Lean Six Sigma Green Belt Capstone](https://github.com/Pallavi-Khabale/Masters/tree/main/Lime_Warehouse_Labor_Planning)
+- Developed a **dynamic labor forecasting dashboard** to optimize staffing for Lime’s warehouse operations.
+- Improved forecast accuracy and reduced idle labor by **20%**.
+- Applied **Lean Six Sigma (DMAIC)** methods and built a regression-based planning tool using Excel.
+- Integrated SKU complexity, takt time, and shipment data for precision labor modeling.
+- _**Note:** Project just listed with Overview. Due to confidentiality, dashboards and code are not uploaded publicly._
+
+---
 
 ## 🔧 Tools & Technologies Used
 
